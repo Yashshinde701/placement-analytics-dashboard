@@ -1,4 +1,21 @@
-# Placement Analytics Dashboard
+# Placement Analytics Dashboard  
+
+## Screenshots
+
+### Header
+<img width="1360" height="262" alt="01-header" src="https://github.com/user-attachments/assets/b9a1ae83-9da8-487a-bf55-199c9884c5da" />
+
+### Backlog - Internship
+<img width="961" height="420" alt="03-backlogs-internships" src="https://github.com/user-attachments/assets/f8643124-8fff-4595-b3e8-7e9bd4fbc72a" />
+
+### Skills
+<img width="985" height="494" alt="04-skills" src="https://github.com/user-attachments/assets/7f03feb5-75cb-4435-bed4-237812031086" />
+
+### Model - Metrics
+<img width="958" height="356" alt="05-model-metrics" src="https://github.com/user-attachments/assets/f1859f86-eaf3-41f0-b904-575c6502cf92" />
+
+### Model - Weight
+<img width="1001" height="574" alt="06-model-weights" src="https://github.com/user-attachments/assets/44025e22-588f-4276-8c8f-e33faec50c5b" />
 
 Explores which factors (CGPA, backlogs, skills, internships ...) relate to campus
 shortlisting, with an interactive Streamlit dashboard and a logistic-regression
